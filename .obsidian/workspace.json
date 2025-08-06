@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "7bce465d5bbc12ec",
+        "id": "562486aa88d771e4",
         "type": "tabs",
         "children": [
           {
-            "id": "2a4d313461150b2d",
+            "id": "c9c47ee9a6db947f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Work/M365 Copilot Chat/CLUE/Server Side Render.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Server Side Render"
+              "title": "新标签页"
             }
           }
         ]
@@ -33,6 +29,7 @@
       {
         "id": "39a8cd17c65011fc",
         "type": "tabs",
+        "dimension": 81.7037037037037,
         "children": [
           {
             "id": "4139774f8ec57a8c",
@@ -75,6 +72,23 @@
             }
           }
         ]
+      },
+      {
+        "id": "542e48ecf4eff348",
+        "type": "tabs",
+        "dimension": 18.296296296296298,
+        "children": [
+          {
+            "id": "2a4d313461150b2d",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "关系图谱"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -87,7 +101,7 @@
       {
         "id": "5edb2b771c022abc",
         "type": "tabs",
-        "dimension": 73.13218390804597,
+        "dimension": 75,
         "children": [
           {
             "id": "32975c2da9103928",
@@ -95,7 +109,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Work/M365 Copilot Chat/CLUE/Server Side Render.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Server Side Render 的反向链接列表"
+              "title": "反向链接"
             }
           },
           {
@@ -114,12 +127,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Work/M365 Copilot Chat/CLUE/Server Side Render.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Server Side Render 的出链列表"
+              "title": "出链"
             }
           },
           {
@@ -143,13 +155,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Work/M365 Copilot Chat/CLUE/Server Side Render.md",
+                "file": "未命名.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Server Side Render 的大纲"
+              "title": "未命名 的大纲"
             }
           },
           {
@@ -168,7 +180,7 @@
       {
         "id": "f6865155c298053e",
         "type": "tabs",
-        "dimension": 26.867816091954023,
+        "dimension": 25,
         "children": [
           {
             "id": "efcf992580c81a62",
@@ -196,12 +208,15 @@
       "command-palette:打开命令面板": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-excalidraw-plugin:新建绘图文件": false,
-      "omnisearch:Omnisearch": false
+      "omnisearch:Omnisearch": false,
+      "workspaces:管理工作区布局": false,
+      "zk-prefixer:创建时间戳笔记": false
     }
   },
-  "active": "5c7098764fa96ff5",
+  "active": "4139774f8ec57a8c",
   "lastOpenFiles": [
     "2025-08-06.md",
+    "未命名.canvas",
     "Work/M365 Copilot Chat/CLUE/Server Side Render.md",
     "Work/M365 Copilot Chat/DRI",
     "Work/M365 Copilot Chat/CLUE",
