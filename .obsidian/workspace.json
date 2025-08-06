@@ -155,13 +155,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "未命名.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "未命名 的大纲"
+              "title": "大纲"
             }
           },
           {
@@ -213,10 +212,10 @@
       "zk-prefixer:创建时间戳笔记": false
     }
   },
-  "active": "4139774f8ec57a8c",
+  "active": "5c7098764fa96ff5",
   "lastOpenFiles": [
-    "2025-08-06.md",
     "未命名.canvas",
+    "2025-08-06.md",
     "Work/M365 Copilot Chat/CLUE/Server Side Render.md",
     "Work/M365 Copilot Chat/DRI",
     "Work/M365 Copilot Chat/CLUE",
