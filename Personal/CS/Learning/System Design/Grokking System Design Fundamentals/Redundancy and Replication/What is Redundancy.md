@@ -1,5 +1,5 @@
 
-Redundancy refers to the duplication of critical components or functions to increase the reliability, availability, and fault tolerance of a system. The primary purpose of redundancy is to prevent system failures and ensure continuous operation, even in the event of hardware, software, or network issues. Redundant systems are designed to maintain functionality and performance despite component failures, providing increased resilience against downtime and data loss.
+==Redundancy refers to the duplication of critical components or functions to increase the reliability, availability, and fault tolerance of a system.== The primary purpose of redundancy is to prevent system failures and ensure continuous operation, even in the event of hardware, software, or network issues. Redundant systems are designed to maintain functionality and performance despite component failures, providing increased resilience against downtime and data loss.
 
 Redundancy plays a key role in removing the single points of failure in the system and provides backups if needed in a crisis. For example, if we have two instances of a service running in production and one fails, the system can failover to the other one.
 
