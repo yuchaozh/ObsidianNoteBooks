@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "9251324eb7a42afc",
+        "id": "562486aa88d771e4",
         "type": "tabs",
         "children": [
           {
-            "id": "d9bbd96b5e6480b7",
+            "id": "c9c47ee9a6db947f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Personal/CS/Learning/System Design/Grokking System Design Fundamentals/Redundancy and Replication/What is Redundancy.md",
-                "mode": "source",
-                "source": false
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "What is Redundancy"
+              "icon": "diff",
+              "title": "Diff: workspace.json"
             }
           }
         ]
@@ -215,10 +215,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "d9bbd96b5e6480b7",
+  "active": "c9c47ee9a6db947f",
   "lastOpenFiles": [
     "Excalidraw/Drawing 2025-08-07 11.39.47.excalidraw.md",
     "Excalidraw",
+    "Work/M365 Copilot Chat/CLUE/Server Side Render.md",
     "Personal/CS/Learning/System Design/Grokking System Design Fundamentals/Redundancy and Replication/What is Redundancy.md",
     "Personal/CS/Learning/System Design/Grokking System Design Fundamentals/Redundancy and Replication/Redundancy and Replication.md",
     "Personal/CS/Learning/System Design/Grokking System Design Fundamentals/Redundancy and Replication",
@@ -229,7 +230,6 @@
     "Personal",
     "未命名.canvas",
     "2025-08-06.md",
-    "Work/M365 Copilot Chat/CLUE/Server Side Render.md",
     "Work/M365 Copilot Chat/DRI",
     "Work/M365 Copilot Chat/CLUE",
     "Work/M365 Copilot Chat"
