@@ -14,7 +14,7 @@
               "type": "empty",
               "state": {},
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "New tab"
             }
           }
         ]
@@ -41,7 +41,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "文件列表"
+              "title": "Files"
             }
           },
           {
@@ -85,7 +85,7 @@
               "type": "graph",
               "state": {},
               "icon": "lucide-git-fork",
-              "title": "关系图谱"
+              "title": "Graph view"
             }
           }
         ]
@@ -199,17 +199,15 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:打开快速切换": false,
-      "graph:查看关系图谱": false,
-      "canvas:新建白板": false,
-      "daily-notes:打开/创建今天的日记": false,
-      "templates:插入模板": false,
-      "command-palette:打开命令面板": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "workspaces:Manage workspace layouts": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:新建绘图文件": false,
-      "omnisearch:Omnisearch": false,
-      "workspaces:管理工作区布局": false,
-      "zk-prefixer:创建时间戳笔记": false
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
   "active": "5c7098764fa96ff5",
