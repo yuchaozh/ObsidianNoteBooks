@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "562486aa88d771e4",
+        "id": "05c9323678be601a",
         "type": "tabs",
         "children": [
           {
-            "id": "c9c47ee9a6db947f",
+            "id": "d72f598d4701c66b",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
+                "file": "Work/M365 Copilot Chat/CLUE/Server Side Render.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: workspace.json"
+              "icon": "lucide-file",
+              "title": "Server Side Render"
             }
           }
         ]
@@ -215,7 +215,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "c9c47ee9a6db947f",
+  "active": "d72f598d4701c66b",
   "lastOpenFiles": [
     "Excalidraw/Drawing 2025-08-07 11.39.47.excalidraw.md",
     "Excalidraw",
