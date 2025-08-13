@@ -1,1 +1,4 @@
 aka.ms/density
+
+Key piece is passing the guid to the density helper function: [https://dev.azure.com/office/Office/_git/1JS?path=/midgard/packages/m365-chat-npm-loader/src/createLazyTopLevelComponent.tsx&version=GBmain&_a=contents&line=28&lineStyle=plain&lineEnd=28&lineStartColumn=1&lineEndColumn=29](https://dev.azure.com/office/Office/_git/1JS?path=/midgard/packages/m365-chat-npm-loader/src/createLazyTopLevelComponent.tsx&version=GBmain&_a=contents&line=28&lineStyle=plain&lineEnd=28&lineStartColumn=1&lineEndColumn=29 "https://dev.azure.com/office/office/_git/1js?path=/midgard/packages/m365-chat-npm-loader/src/createlazytoplevelcomponent.tsx&version=gbmain&_a=contents&line=28&linestyle=plain&lineend=28&linestartcolumn=1&lineendcolumn=29")
+Do I need to update the createLazyTopLevelComponent.tsx? 
