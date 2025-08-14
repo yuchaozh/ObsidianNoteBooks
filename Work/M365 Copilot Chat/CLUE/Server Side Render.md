@@ -9,3 +9,7 @@ Response integration plan:
 Density: [README.md - Repos](https://office.visualstudio.com/Office/_git/1JS?path=/midgard/packages/density/README.md&version=GBmain&_a=preview)
 
 Chat -> StatefulChat -> LayoutV2 -> MainSection -> ResponseSection
+
+# new how to run it locally
+1. Run both @1js/m365-copilot-app and @1js/bizchat-blaze-loader
+2. [http://localhost:3000/chat?&mockuser=1&M365ChatLocal=8887&cspoff=1](http://localhost:3000/chat?&mockuser=1&M365ChatLocal=8887&cspoff=1 "http://localhost:3000/chat?&mockuser=1&m365chatlocal=8887&cspoff=1")

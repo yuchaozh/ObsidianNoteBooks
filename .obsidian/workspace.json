@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Work/M365 Copilot Chat/CLUE/Density.md",
+                "file": "Work/Git/Git rebase.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Density"
+              "title": "Git rebase"
             }
           }
         ]
@@ -215,16 +215,17 @@
       "obsidian-git:Open Git source control": false,
       "obsidian-excalidraw-plugin:新建绘图文件": false,
       "omnisearch:Omnisearch": false,
-      "workspaces:管理工作区布局": false,
-      "zk-prefixer:创建时间戳笔记": false
+      "workspaces:管理工作区布局": false
     }
   },
   "active": "c9c47ee9a6db947f",
   "lastOpenFiles": [
-    "Work/M365 Copilot Chat/CLUE/Teaching Moments Iris Scorecards.md",
     "Work/M365 Copilot Chat/CLUE/Server Side Render.md",
-    "Work/M365 Copilot Chat/CLUE/SWE Agent.md",
+    "Work/Git/Git rebase.md",
+    "Work/Git",
+    "Work/M365 Copilot Chat/CLUE/Teaching Moments Iris Scorecards.md",
     "Work/M365 Copilot Chat/CLUE/Density.md",
+    "Work/M365 Copilot Chat/CLUE/SWE Agent.md",
     "Excalidraw/Drawing 2025-08-07 11.39.47.excalidraw.md",
     "Excalidraw",
     "Personal/CS/Learning/System Design/Grokking System Design Fundamentals/Redundancy and Replication/What is Redundancy.md",
@@ -238,7 +239,6 @@
     "未命名.canvas",
     "2025-08-06.md",
     "Work/M365 Copilot Chat/DRI",
-    "Work/M365 Copilot Chat/CLUE",
-    "Work/M365 Copilot Chat"
+    "Work/M365 Copilot Chat/CLUE"
   ]
 }
