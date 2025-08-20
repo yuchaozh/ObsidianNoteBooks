@@ -33,3 +33,10 @@ SSR:
 feedbackButtonElement is true, but it is not shown up.
 ==schedulePromptButtonElement== is different
 ==primaryActions== is different
+
+Investigation why primaryAction is false in SSR:
+1. isPagesEnabled: false
+2. pagesURLResponseElement: false
+
+Investigatie why feedback button is not shown:
+shouldEnableReorderedActions is false. it is because the policies is undefined in useChatFeedbackContext
