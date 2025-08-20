@@ -31,6 +31,6 @@
     "debugMode": false,
     "useInternalPlugins": false
   },
-  "Work/M365 Copilot Chat/CLUE/Server Side Render.md": "LiServer",
-  "Work/M365 Copilot Chat/CLUE/SWE Agent.md": "TiMessageMinus"
+  "Work/M365 Copilot Chat/CLUE/SWE Agent.md": "TiMessageMinus",
+  "Work/M365 Copilot Chat/CLUE/SSR/Server Side Render.md": "LiServer"
 }

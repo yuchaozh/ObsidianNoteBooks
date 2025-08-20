@@ -13,3 +13,12 @@ Chat -> StatefulChat -> LayoutV2 -> MainSection -> ResponseSection
 # new how to run it locally
 1. Run both @1js/m365-copilot-app and @1js/bizchat-blaze-loader
 2. [http://localhost:3000/chat?&mockuser=1&M365ChatLocal=8887&cspoff=1](http://localhost:3000/chat?&mockuser=1&M365ChatLocal=8887&cspoff=1 "http://localhost:3000/chat?&mockuser=1&m365chatlocal=8887&cspoff=1")
+
+# Task Board
+[Bizchat vnext tasks](https://loop.cloud.microsoft/p/eyJwIjp7InUiOiJodHRwczovL21pY3Jvc29mdC1teS5zaGFyZXBvaW50LWRmLmNvbS9wZXJzb25hbC9yYW5hZGltaV9taWNyb3NvZnRfY29tL0RvY3VtZW50cy9NaWNyb3NvZnQlMjBUZWFtcyUyMENoYXQlMjBGaWxlcy9CaXpjaGF0JTIwdm5leHQlMjB0YXNrcy5sb29wP2Q9dzZkNTA2NzQzNTIwMDQ4MDZhYTY2YWZmYTZjYTA1YzNmJm5hdj1jejBsTWtad1pYSnpiMjVoYkNVeVJuSmhibUZrYVcxcFgyMXBZM0p2YzI5bWRGOWpiMjBtWkQxaUlYQnJWa05OWkZabFRqQTJZWFJaTUVKMlVIUXRkMm81UjFoaFFqTk5kVGxOYm01ZlVucE5ZMUZ1WjJWak9XUktTVGhWVkVGUlRGRnlTMGhuUm5kbU5VTW1aajB3TVRNM1UxQk1OREpFVFRWSlJ6SkJRMU5CV2tWTFZWcFdVRGRLVjB0QldFSTNKbU05SlRKR0pUTkdiV2x1YVdacFpXUWxNMFEyWlRsaE16VTBOaTA1T0dVd0xUUTNOakV0T1dRME5TMDJOekE1WVRBMk1EUmxZMk1sTWpaelpYRWxNMFF4TkRNMk55Wm1iSFZwWkQweEptRTlURzl2Y0VGd2NDWndQU1UwTUdac2RXbGtlQ1V5Um14dmIzQXRjR0ZuWlMxamIyNTBZV2x1WlhJPSIsInIiOmZhbHNlfX0%3D)
+
+# MT
+repo: [BizchatVNext - Repos](https://msasg.visualstudio.com/Falcon/_git/BingAtWork?path=%2Fservices%2FBizchatVNext)
+
+How to test the MT API locally:
+![[Pasted image 20250819105402.png]]
